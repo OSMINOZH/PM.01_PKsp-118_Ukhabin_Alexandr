@@ -1,0 +1,10 @@
+D:\Users\stu-pksp118\Desktop\экзамен\ekz\bin\Debug\ekz.exe.config
+D:\Users\stu-pksp118\Desktop\экзамен\ekz\bin\Debug\ekz.exe
+D:\Users\stu-pksp118\Desktop\экзамен\ekz\bin\Debug\ekz.pdb
+D:\Users\stu-pksp118\Desktop\экзамен\ekz\obj\Debug\src.csprojAssemblyReference.cache
+D:\Users\stu-pksp118\Desktop\экзамен\ekz\obj\Debug\ekz.Form1.resources
+D:\Users\stu-pksp118\Desktop\экзамен\ekz\obj\Debug\ekz.Properties.Resources.resources
+D:\Users\stu-pksp118\Desktop\экзамен\ekz\obj\Debug\src.csproj.GenerateResource.cache
+D:\Users\stu-pksp118\Desktop\экзамен\ekz\obj\Debug\src.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp118\Desktop\экзамен\ekz\obj\Debug\ekz.exe
+D:\Users\stu-pksp118\Desktop\экзамен\ekz\obj\Debug\ekz.pdb
